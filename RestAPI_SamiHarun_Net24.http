@@ -1,0 +1,6 @@
+@RestAPI_SamiHarun_Net24_HostAddress = http://localhost:5260
+
+GET {{RestAPI_SamiHarun_Net24_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
